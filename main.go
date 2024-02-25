@@ -94,12 +94,14 @@ func main() {
 	}
 	// var arr map[string]interface{}
 	for _, value := range rules.Sections() {
-		if value.Name() == "ORCAAC" {
+		if value.Name() == "SCORPION" {
 			fmt.Println(value.Name())
 			rules2, arts, sounds := FindItems(value, art, sound, rules)
 			fmt.Println("Rules", removeDuplicates(rules2))
 			fmt.Println("Arts", removeDuplicates(arts))
 			fmt.Println("Sounds", removeDuplicates(sounds))
+
+			rules2 = append(rules2, value.Name())
 
 			list, _ := soundOutput.NewSection("SoundList")
 			sourceList, _ := soundOutputCheck.GetSection("SoundList")
@@ -182,6 +184,59 @@ func main() {
 				}
 
 				artOutput.SaveToIndent("INI/art_copy.ini", "")
+			}
+
+			rulesOutputCheck, err := ini.LoadSources(ini.LoadOptions{
+				UnparseableSections:     []string{},
+				IgnoreInlineComment:     true,
+				IgnoreContinuation:      true,
+				SkipUnrecognizableLines: true,
+			}, "INI/rules.ini")
+			if err != nil {
+				fmt.Printf("Fail to read file: %v", err)
+				os.Exit(1)
+			}
+
+			rulesOutput, err := ini.LoadSources(ini.LoadOptions{
+				UnparseableSections:     []string{},
+				IgnoreInlineComment:     true,
+				IgnoreContinuation:      true,
+				SkipUnrecognizableLines: true,
+			}, []byte(""))
+			if err != nil {
+				fmt.Printf("Fail to read file: %v", err)
+				os.Exit(1)
+			}
+
+			for _, item := range removeDuplicates(rules2) {
+				if rulesOutputCheck.HasSection(item) {
+					continue
+				}
+
+				newSection, err := rules.GetSection(item)
+				if err != nil {
+					fmt.Printf("no section: %v", err)
+					os.Exit(1)
+				}
+				println(newSection.KeyStrings())
+				s, err := rulesOutput.NewSection(item)
+				if err != nil {
+					fmt.Printf("no section: %v", err)
+					os.Exit(1)
+				}
+				for _, key := range newSection.KeyStrings() {
+					println("key", key, strings.Join(s.KeyStrings(), ","))
+					fmt.Printf("key: %v\n", s)
+					s.NewKey(key, newSection.Key(key).Value())
+
+					// _, err := s.g
+					// if err != nil {
+					// 	fmt.Printf("no section: %v", err)
+					// 	os.Exit(1)
+					// }
+				}
+
+				rulesOutput.SaveToIndent("INI/rules_copy.ini", "")
 			}
 		}
 	}
