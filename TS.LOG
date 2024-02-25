@@ -1,0 +1,659 @@
+MillisecondTimerClass low = 7044641, high = 7266536
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+GetCDClass constructor
+CD drive found - D:
+1448-152
+1449-76
+1450-76
+1451-3528
+1452-888
+1453-1152
+1454-216
+1455-264
+1456-496
+1457-120
+1458-792
+1459-2232
+1460-208
+1461-360
+1462-168
+1463-96
+1464-69200
+1465-184
+1466-904
+1467-1208
+1468-24
+1469-7468
+1470-3528
+1471-80
+1472-328
+1473-80
+1474-308
+1475-156
+1476-140
+1477-176
+1478-124
+1479-340
+1480-52
+1481-124
+1482-108
+1483-40
+1484-896
+1485-1264
+1486-7760
+1487-168
+1488-56
+1489-432
+1490-4032
+1491-800
+1492-1
+1493-544
+1494-124
+1495-108
+1496-8
+1497-24
+1498-8
+1499-8
+1500-16
+1501-32
+1502-24
+Create AppMutex okay.
+Create AutoPlayMutex.
+Got AutoPlayMutex okay.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 260167 Mb
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Audio timer resolution is 10 milliseconds
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1024x768x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...OK
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (856x768) SYSTEM MEMORY
+TileSurface (856x768) SYSTEM MEMORY
+SidebarSurface (168x768) SYSTEM MEMORY
+HiddenSurface (1024x768) SYSTEM MEMORY
+AlternateSurface (1024x768) SYSTEM MEMORY
+Calc_Confining_Rect(0,0,1024,768)
+Capture_Mouse()
+Main_Game
+Init Game
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+Bootstrap..... EXPAND10.MIX EXPAND01.MIX EXPAND00.MIX ECACHE10.MIX ECACHE09.MIX ECACHE08.MIX ECACHE07.MIX ECACHE06.MIX ECACHE01.MIX ECACHE00.MIX CACHE.MIX CACHE.MIX LOCAL.MIX ...OK
+Init Mouse
+Init CDROM
+-CD parameter was specified. No CD init - all files must be local
+Init Secondary Mixfiles..... CONQUER.MIX CACHE.MIX MULTI.MIX SOUNDS01.MIX SOUNDS.MIX SCORES.MIX SCORES01.MIX MOVIES01.MIX MOVIES02.MIX MOVIES03.MIX ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+--------- Loading SUN.INI settings ---------------
+GameSpeed = 1
+Difficulty = 1
+ScrollMethod = 0
+ScrollRate = 6
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ToolTips are ON
+Resolution = 1024 X 768
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.700000
+VoiceVolume = 0.700000
+ScoreVolume = 0.700000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,16,856,752)
+Deleting ZBuffer
+Allocating ZBuffer (856x752)
+Deleting ABuffer
+Allocating ABuffer (856x752)
+MessageListClass::Init(Width: 848)
+MessageListClass::Set_Width(848)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 260167 Mb
+Session one time init. UniqueID is 719998ca
+Reading SOUND.INI
+Reading THEME.INI
+Init Rules
+Init random number
+Seed is 15a561fe
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 00AFF4F8
+ExceptionReturnAddress = 004629A7
+Init random number
+Seed is 39dd73bd
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+About to open a UDP socket
+About to bind the UDP socket
+About to query the host name
+About to call gethostbyname
+Found local address: 169.254.90.135
+Found local address: 192.168.2.208
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 9
+About to open a UDP socket
+About to bind the UDP socket
+
+----- Starting scnenario: spawnmap.ini -----
+Player Count: 1
+Reading scenario: spawnmap.ini
+Scen->IsRandom = false
+Read_Scenario_INI - Filename is spawnmap.ini
+Clearing old scenario
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+Creating new tactical map
+Initializing Theater
+Init theater TEMPERATE
+Calling Prep_For_Side()
+Preparing Mixfiles for Side 03.
+     Initializing SIDEC04.MIX
+     Initilizing SIDENC04.MIX
+RadarClass::Init_For_House()
+Initializeing Rules
+Processing sides.
+Side 0: GDI 
+  GDI
+Side 1: Nod 
+  Nod
+Side 2: GAD 
+  GAD
+Side 3: Cabal 
+  Cabal
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+Calling Prep_Speech_For_Side()
+     Initilizing SPEECH04.MIX
+Calling Scen->Read_Global_INI(*RuleINI);
+Calling Rule->Addition() with scenario overrides
+Processing sides.
+Finished Rule->Addition() with scenario overrides
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Loaded 187 isometric tiles consuming 760 Kb
+Creating 9 units - Random seed is 00000009
+UniqueID is 000f93a4
+Multiplayer start waypoint found at cell 39,94
+Multiplayer start waypoint found at cell 105,47
+Generating units for house 0 (Cabal)
+House Cabal deployed object COREMECH
+House Cabal deployed object COREMECH
+House Cabal deployed object SHRED
+House Cabal deployed object COREMECH
+House Cabal deployed object HBIKE
+House Cabal deployed object REAPINF
+House Cabal deployed object CYBASS
+Generating units for house 1 (GDI)
+House GDI deployed object HVR
+House GDI deployed object HVR
+House GDI deployed object JUGG
+House GDI deployed object SMECH
+House GDI deployed object 4TNK
+House GDI deployed object E2
+House GDI deployed object E2
+House GDI deployed object E2
+Finished unit generation. Random number is 50974
+MessageListClass::Init(Width: 848)
+Theme::QueueSong(-2)
+SoundVolume = 0.700000
+VoiceVolume = 0.700000
+ScoreVolume = 0.700000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 12
+Theme::AI(Next song = 25)
+Theme::PlaySong(25) - Playing
+Tooltips are on.
+Display: Abort_Drag_Select()
+Radar: ACTIVATING
+Adding event DEPLOY
+Adding event PRODUCE
+Radar: DEACTIVING
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'H_GDI disc thrower pool'.
+Create_One_Of...
+Creating a new team named 'H_GDI disc thrower pool'.
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Adding event ARCHIVE
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Adding event SUSPEND
+Adding event ABANDON
+Abandoning production of Cyborg
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Radar: TacticalMap availability is on
+Radar: ACTIVATING
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'H_GDI vehicle attack 3'.
+Adding event SPECIAL_PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'H_GDI factories attack 1a'.
+Create_One_Of...
+Creating a new team named 'H_GDI factories attack 1b'.
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Crate at 46,97 contains firepower
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Crate at 40,72 contains ICBM
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'GDI'.
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Crate at 74,67 contains armor
+Display: Abort_Drag_Select()
+Abandoning production of Tiberium Refinery
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event REPAIR
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'H_GDI infantry attack 1'.
+Create_One_Of...
+Creating a new team named 'H_GDI infantry attack 1'.
+Adding event SPECIAL_PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Creating survivor type 'Light Infantry' from building type 'Helipad'
+Survivor unlimbo OK
+Creating survivor type 'Light Infantry' from building type 'GDI Power Plant'
+Survivor unlimbo OK
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Adding event ABANDON
+Abandoning production of Helipad
+Adding event PRODUCE
+Adding event PLACE
+Adding event ARCHIVE
+Display: Abort_Drag_Select()
+Abandoning production of Power Turbine
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Abandoning production of Power Turbine
+Display: Abort_Drag_Select()
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Adding event PLACE
+Adding event PLACE
+Radar: TacticalMap availability is off
+Radar: DEACTIVING
+Adding event PRODUCE
+Crate at 38,88 contains speed
+Adding event POWEROFF
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Regular findpath failure: (91,33) to (93, 35)
+Warning.  A* without HS: (91,33) to (93, 35)
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'H_GDI con. yard attack 3a'.
+Create_One_Of...
+Creating a new team named 'H_GDI con. yard attack 3b'.
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Abandoning production of Dropship Bay
+Theme::AI(Next song = 6)
+Theme::Stop(25)
+Theme::PlaySong(6) - Playing
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Radar: TacticalMap availability is on
+Radar: ACTIVATING
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Regular findpath failure: (104,42) to (91, 70)
+Regular findpath failure: (104,42) to (97, 46)
+Regular findpath failure: (104,42) to (97, 46)
+Regular findpath failure: (104,42) to (101, 44)
+Regular findpath failure: (104,42) to (101, 44)
+Regular findpath failure: (104,42) to (103, 46)
+Regular findpath failure: (104,42) to (103, 46)
+Regular findpath failure: (104,42) to (103, 50)
+Regular findpath failure: (104,42) to (101, 44)
+Regular findpath failure: (104,42) to (101, 44)
+Display: Abort_Drag_Select()
+Adding event PLACE
+Abandoning production of Dropship Bay
+Weapons factory bib clear - kicking out unit
+Regular findpath failure: (103,42) to (92, 69)
+Regular findpath failure: (103,42) to (92, 69)
+Regular findpath failure: (103,42) to (92, 69)
+Regular findpath failure: (103,42) to (102, 47)
+Regular findpath failure: (103,42) to (102, 46)
+Regular findpath failure: (103,42) to (101, 44)
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event ARCHIVE
+Adding event PLACE
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Abandoning production of Dropship Bay
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'H_GDI tib. refinery attack 4a'.
+Create_One_Of...
+Creating a new team named 'H_GDI tib. refinery attack 4b'.
+Regular findpath failure: (92,33) to (93, 35)
+Warning.  A* without HS: (92,33) to (93, 35)
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event PLACE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Abandoning production of Dropship Bay
+Adding event PRODUCE
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Adding event REPAIR
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Abandoning production of Dropship Bay
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Regular findpath failure: (105,42) to (93, 35)
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Create_One_Of...
+Creating a new team named 'H_GDI factories attack 6'.
+Create_One_Of...
+Creating a new team named 'H_GDI factories attack 6'.
+Adding event PLACE
+Display: Abort_Drag_Select()
+Abandoning production of Dropship Bay
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Display: Abort_Drag_Select()
+Weapons factory bib clear - kicking out unit
+Display: Abort_Drag_Select()
+Adding event OPTIONS
+Paused ElapsedTimer = 22697590
+Tooltips are off.
+Display: Abort_Drag_Select()
+Scroll: Abort_Drag_Select()
+Release_Mouse()
+TS: Computing font metrics....
+Capture_Mouse()
+Release_Mouse()
+Capture_Mouse()
+Adding event EXIT
+Resume ElapsedTimer = 22719116
+Tooltips are on.
+Sending game results because I quit, but didn't see completionTheme::QueueSong(-3)
+Tooltips are off.
+Game loop finished. Average FPS = 59
+Release_Mouse()
+MessageListClass::Init(Width: 632)

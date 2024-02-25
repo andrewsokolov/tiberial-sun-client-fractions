@@ -1,0 +1,1578 @@
+FinalSun log file
+-----------------
+
+CFinalSunApp::CFinalSunApp() called
+
+
+
+CLoading::CLoading() called
+CFinalSunDlg::OnInitDialog() called
+Updating menu
+CLoading::Load() called
+
+Initializing FSunPackLib::XCC
+Initializing mix files
+InitMixFiles() called. Available memory: 2147483646
+Loading TibSun.mix success
+Loading local.mix successful
+Loading conquer.mix, temperat.mix, isotemp.mix, isosnow.mix, isourb.mix and cache.mix successful
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand00.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand00.mix found: loading 
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand01.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand01.mix found: loading 
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand02.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand03.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand04.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand05.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand06.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand07.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand08.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand09.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand10.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand10.mix found: loading 
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand11.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand12.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand13.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand14.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand15.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand16.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand17.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand18.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand19.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand20.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand21.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand22.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand23.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand24.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand25.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand26.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand27.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand28.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand29.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand30.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand31.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand32.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand33.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand34.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand35.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand36.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand37.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand38.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand39.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand40.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand41.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand42.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand43.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand44.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand45.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand46.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand47.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand48.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand49.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand50.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand51.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand52.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand53.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand54.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand55.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand56.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand57.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand58.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand59.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand60.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand61.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand62.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand63.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand64.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand65.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand66.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand67.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand68.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand69.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand70.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand71.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand72.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand73.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand74.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand75.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand76.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand77.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand78.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand79.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand80.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand81.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand82.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand83.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand84.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand85.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand86.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand87.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand88.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand89.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand90.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand91.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand92.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand93.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand94.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand95.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand96.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand97.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand98.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand99.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\ra2md.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache00.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache01.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache06.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache07.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache08.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache09.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache10.mix found and loaded
+InitMixFiles() finished. Available memory: 2147483646
+InitPalettes() called
+IsoUrb.pal failed
+IsoLun.pal failed
+IsoDes.pal failed
+IsoUbn.pal failed
+UnitUrb.pal failed
+UnitLun.pal failed
+UnitDes.pal failed
+UnitUbn.pal failed
+Urban.pal failed
+lunar.pal failed
+desert.pal failed
+urbann.pal failed
+lib.pal failed
+
+LoadTSIni(INI\RULES.INI,007DCCE8,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\FSR.INI,01398B6C,1) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\ART.INI,007DCBB8,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\ARTFS.INI,01398B6C,1) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\TUTORIAL.INI,007DC870,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(Sound99.ini,007DC988,0) called
+LoadTSIni(Sound98.ini,007DC988,0) called
+LoadTSIni(Sound97.ini,007DC988,0) called
+LoadTSIni(Sound96.ini,007DC988,0) called
+LoadTSIni(Sound95.ini,007DC988,0) called
+LoadTSIni(Sound94.ini,007DC988,0) called
+LoadTSIni(Sound93.ini,007DC988,0) called
+LoadTSIni(Sound92.ini,007DC988,0) called
+LoadTSIni(Sound91.ini,007DC988,0) called
+LoadTSIni(Sound90.ini,007DC988,0) called
+LoadTSIni(Sound89.ini,007DC988,0) called
+LoadTSIni(Sound88.ini,007DC988,0) called
+LoadTSIni(Sound87.ini,007DC988,0) called
+LoadTSIni(Sound86.ini,007DC988,0) called
+LoadTSIni(Sound85.ini,007DC988,0) called
+LoadTSIni(Sound84.ini,007DC988,0) called
+LoadTSIni(Sound83.ini,007DC988,0) called
+LoadTSIni(Sound82.ini,007DC988,0) called
+LoadTSIni(Sound81.ini,007DC988,0) called
+LoadTSIni(Sound80.ini,007DC988,0) called
+LoadTSIni(Sound79.ini,007DC988,0) called
+LoadTSIni(Sound78.ini,007DC988,0) called
+LoadTSIni(Sound77.ini,007DC988,0) called
+LoadTSIni(Sound76.ini,007DC988,0) called
+LoadTSIni(Sound75.ini,007DC988,0) called
+LoadTSIni(Sound74.ini,007DC988,0) called
+LoadTSIni(Sound73.ini,007DC988,0) called
+LoadTSIni(Sound72.ini,007DC988,0) called
+LoadTSIni(Sound71.ini,007DC988,0) called
+LoadTSIni(Sound70.ini,007DC988,0) called
+LoadTSIni(Sound69.ini,007DC988,0) called
+LoadTSIni(Sound68.ini,007DC988,0) called
+LoadTSIni(Sound67.ini,007DC988,0) called
+LoadTSIni(Sound66.ini,007DC988,0) called
+LoadTSIni(Sound65.ini,007DC988,0) called
+LoadTSIni(Sound64.ini,007DC988,0) called
+LoadTSIni(Sound63.ini,007DC988,0) called
+LoadTSIni(Sound62.ini,007DC988,0) called
+LoadTSIni(Sound61.ini,007DC988,0) called
+LoadTSIni(Sound60.ini,007DC988,0) called
+LoadTSIni(Sound59.ini,007DC988,0) called
+LoadTSIni(Sound58.ini,007DC988,0) called
+LoadTSIni(Sound57.ini,007DC988,0) called
+LoadTSIni(Sound56.ini,007DC988,0) called
+LoadTSIni(Sound55.ini,007DC988,0) called
+LoadTSIni(Sound54.ini,007DC988,0) called
+LoadTSIni(Sound53.ini,007DC988,0) called
+LoadTSIni(Sound52.ini,007DC988,0) called
+LoadTSIni(Sound51.ini,007DC988,0) called
+LoadTSIni(Sound50.ini,007DC988,0) called
+LoadTSIni(Sound49.ini,007DC988,0) called
+LoadTSIni(Sound48.ini,007DC988,0) called
+LoadTSIni(Sound47.ini,007DC988,0) called
+LoadTSIni(Sound46.ini,007DC988,0) called
+LoadTSIni(Sound45.ini,007DC988,0) called
+LoadTSIni(Sound44.ini,007DC988,0) called
+LoadTSIni(Sound43.ini,007DC988,0) called
+LoadTSIni(Sound42.ini,007DC988,0) called
+LoadTSIni(Sound41.ini,007DC988,0) called
+LoadTSIni(Sound40.ini,007DC988,0) called
+LoadTSIni(Sound39.ini,007DC988,0) called
+LoadTSIni(Sound38.ini,007DC988,0) called
+LoadTSIni(Sound37.ini,007DC988,0) called
+LoadTSIni(Sound36.ini,007DC988,0) called
+LoadTSIni(Sound35.ini,007DC988,0) called
+LoadTSIni(Sound34.ini,007DC988,0) called
+LoadTSIni(Sound33.ini,007DC988,0) called
+LoadTSIni(Sound32.ini,007DC988,0) called
+LoadTSIni(Sound31.ini,007DC988,0) called
+LoadTSIni(Sound30.ini,007DC988,0) called
+LoadTSIni(Sound29.ini,007DC988,0) called
+LoadTSIni(Sound28.ini,007DC988,0) called
+LoadTSIni(Sound27.ini,007DC988,0) called
+LoadTSIni(Sound26.ini,007DC988,0) called
+LoadTSIni(Sound25.ini,007DC988,0) called
+LoadTSIni(Sound24.ini,007DC988,0) called
+LoadTSIni(Sound23.ini,007DC988,0) called
+LoadTSIni(Sound22.ini,007DC988,0) called
+LoadTSIni(Sound21.ini,007DC988,0) called
+LoadTSIni(Sound20.ini,007DC988,0) called
+LoadTSIni(Sound19.ini,007DC988,0) called
+LoadTSIni(Sound18.ini,007DC988,0) called
+LoadTSIni(Sound17.ini,007DC988,0) called
+LoadTSIni(Sound16.ini,007DC988,0) called
+LoadTSIni(Sound15.ini,007DC988,0) called
+LoadTSIni(Sound14.ini,007DC988,0) called
+LoadTSIni(Sound13.ini,007DC988,0) called
+LoadTSIni(Sound12.ini,007DC988,0) called
+LoadTSIni(Sound11.ini,007DC988,0) called
+LoadTSIni(Sound10.ini,007DC988,0) called
+LoadTSIni(Sound09.ini,007DC988,0) called
+LoadTSIni(Sound08.ini,007DC988,0) called
+LoadTSIni(Sound07.ini,007DC988,0) called
+LoadTSIni(Sound06.ini,007DC988,0) called
+LoadTSIni(Sound05.ini,007DC988,0) called
+LoadTSIni(Sound04.ini,007DC988,0) called
+LoadTSIni(Sound03.ini,007DC988,0) called
+LoadTSIni(Sound02.ini,007DC988,0) called
+LoadTSIni(Sound01.ini,007DC988,0) called
+LoadTSIni(INI\SOUND.INI,007DC988,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(eva.ini,007DC758,0) called
+LoadTSIni(INI\THEME.INI,007DC640,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\AI.INI,007DCAA0,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\AIFS.INI,007DCAA0,1) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\TEMPERAT.INI,007DC2F8,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(INI\SNOW.INI,007DC1E0,0) called
+File found in TS directory (C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\)
+LoadTSIni(Urban.ini,007DC0C8,0) called
+
+
+DirectDrawCreate() will be called now
+DirectDrawCreate() successful
+
+Now querying the DirectX 7 or 6 interface
+QueryInterface() successful
+
+Now setting cooperative level
+SetCooperativeLevel() successful
+
+Creating primary surface
+Return code: 0
+CreateSurface() successful
+
+Creating backbuffer surface
+CreateSurface() successful
+
+Now creating clipper
+CreateClipper() successful
+
+Map.LoadMap() will be called
+LoadMap() frees memory
+LoadMap() loads map file
+LoadMap() repairs Taskforces (if needed)
+LoadMap() loads graphics
+CLoading::~CLoading finished. Available memory: 2147483646
+InitMixFiles() called. Available memory: 2147483646
+Loading TibSun.mix success
+Loading local.mix successful
+Loading conquer.mix, temperat.mix, isotemp.mix, isosnow.mix, isourb.mix and cache.mix successful
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand00.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand00.mix found: loading 
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand01.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand01.mix found: loading 
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand02.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand03.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand04.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand05.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand06.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand07.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand08.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand09.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand10.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand10.mix found: loading 
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand11.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand12.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand13.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand14.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand15.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand16.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand17.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand18.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand19.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand20.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand21.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand22.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand23.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand24.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand25.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand26.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand27.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand28.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand29.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand30.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand31.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand32.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand33.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand34.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand35.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand36.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand37.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand38.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand39.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand40.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand41.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand42.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand43.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand44.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand45.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand46.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand47.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand48.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand49.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand50.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand51.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand52.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand53.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand54.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand55.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand56.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand57.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand58.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand59.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand60.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand61.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand62.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand63.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand64.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand65.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand66.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand67.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand68.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand69.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand70.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand71.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand72.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand73.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand74.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand75.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand76.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand77.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand78.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand79.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand80.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand81.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand82.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand83.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand84.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand85.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand86.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand87.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand88.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand89.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand90.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand91.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand92.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand93.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand94.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand95.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand96.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand97.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand98.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\Expand99.mix
+Searching C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\ra2md.mix
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache00.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache01.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache06.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache07.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache08.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache09.mix found and loaded
+C:\Users\WhatItMeans\Desktop\Tiberian Sun Factions ALPHA 2_3_7 - Client 5_46\\MIX\ECache10.mix found and loaded
+InitMixFiles() finished. Available memory: 2147483646
+InitPics() called. Available memory: 2147483646
+InitTMPs() called. Available memory: 2147483646
+Bld01a.tem not found
+Bld02a.tem not found
+Bld03a.tem not found
+Snow01d.tem not found
+Snow02a.tem not found
+Snow03a.tem not found
+Snow04a.tem not found
+clif01a.tem not found
+clif02a.tem not found
+flow01a.tem not found
+house01a.tem not found
+blank01a.tem not found
+mslop01a.tem not found
+mslop02a.tem not found
+mslop03a.tem not found
+mslop04a.tem not found
+mslop05a.tem not found
+mslop06a.tem not found
+mslop07a.tem not found
+mslop08a.tem not found
+mslop09a.tem not found
+mslop10a.tem not found
+mslop11a.tem not found
+mslop12a.tem not found
+mslop13a.tem not found
+mslop14a.tem not found
+mslop15a.tem not found
+mslop16a.tem not found
+mslop17a.tem not found
+mslop18a.tem not found
+mslop19a.tem not found
+mslop20a.tem not found
+hyte01a.tem not found
+hyte02a.tem not found
+hyte03a.tem not found
+hyte04a.tem not found
+hyte05a.tem not found
+hyte06a.tem not found
+hyte07a.tem not found
+slope01d.tem not found
+slope02d.tem not found
+slope03d.tem not found
+slope04d.tem not found
+slope05d.tem not found
+slope06d.tem not found
+slope07d.tem not found
+slope08d.tem not found
+slope09d.tem not found
+slope10d.tem not found
+slope11d.tem not found
+slope12d.tem not found
+slope13d.tem not found
+slope14d.tem not found
+slope15d.tem not found
+slope16d.tem not found
+slope17a.tem not found
+slope18a.tem not found
+slope19a.tem not found
+slope20a.tem not found
+Cliff01a.tem not found
+Cliff02a.tem not found
+Cliff03a.tem not found
+Cliff04a.tem not found
+Cliff05a.tem not found
+Cliff06a.tem not found
+Cliff07a.tem not found
+Cliff08a.tem not found
+Cliff09a.tem not found
+Cliff10a.tem not found
+Cliff11a.tem not found
+Cliff12a.tem not found
+Cliff13a.tem not found
+Cliff14a.tem not found
+Cliff15a.tem not found
+Cliff16a.tem not found
+Cliff17a.tem not found
+Cliff18a.tem not found
+Cliff19a.tem not found
+Cliff20a.tem not found
+Cliff21a.tem not found
+Cliff22a.tem not found
+Cliff23a.tem not found
+Cliff24a.tem not found
+Cliff25a.tem not found
+Cliff26a.tem not found
+Cliff27a.tem not found
+Cliff28a.tem not found
+Cliff29a.tem not found
+Cliff30a.tem not found
+Cliff31a.tem not found
+Cliff32a.tem not found
+Cliff33b.tem not found
+Cliff34b.tem not found
+Cliff35a.tem not found
+Cliff36a.tem not found
+Cliff37a.tem not found
+Cliff38a.tem not found
+Cliff39a.tem not found
+Cliff40a.tem not found
+Civ01a.tem not found
+Civ02a.tem not found
+Civ03a.tem not found
+Civ04a.tem not found
+Civ05a.tem not found
+Civ06a.tem not found
+Civ07a.tem not found
+Civ08a.tem not found
+Shore01a.tem not found
+Shore02a.tem not found
+Shore03a.tem not found
+Shore04a.tem not found
+Shore05a.tem not found
+Shore06a.tem not found
+Shore07a.tem not found
+Shore08a.tem not found
+Shore09a.tem not found
+Shore10a.tem not found
+Shore11a.tem not found
+Shore12a.tem not found
+Shore13a.tem not found
+Shore14a.tem not found
+Shore15a.tem not found
+Shore16a.tem not found
+Shore17a.tem not found
+Shore18a.tem not found
+Shore19a.tem not found
+Shore20a.tem not found
+Shore21a.tem not found
+Shore22a.tem not found
+Shore23a.tem not found
+Shore24a.tem not found
+Shore25a.tem not found
+Shore26a.tem not found
+Shore27a.tem not found
+Shore28a.tem not found
+Shore29a.tem not found
+Shore30a.tem not found
+Shore31a.tem not found
+Shore32a.tem not found
+Shore33a.tem not found
+Shore34a.tem not found
+Shore35a.tem not found
+Shore36a.tem not found
+Shore37a.tem not found
+Shore38a.tem not found
+Shore39a.tem not found
+Shore40a.tem not found
+Shore41a.tem not found
+Shore42a.tem not found
+clat01b.tem not found
+clat02b.tem not found
+clat03b.tem not found
+clat04b.tem not found
+clat05b.tem not found
+clat06b.tem not found
+clat07b.tem not found
+clat08b.tem not found
+clat09b.tem not found
+clat10b.tem not found
+clat11b.tem not found
+clat12b.tem not found
+clat13b.tem not found
+clat14b.tem not found
+clat15b.tem not found
+clat16b.tem not found
+WCliff01a.tem not found
+WCliff02a.tem not found
+WCliff03a.tem not found
+WCliff04a.tem not found
+WCliff05a.tem not found
+WCliff06a.tem not found
+WCliff07a.tem not found
+WCliff08a.tem not found
+WCliff09a.tem not found
+WCliff10a.tem not found
+WCliff11a.tem not found
+WCliff12a.tem not found
+WCliff13a.tem not found
+WCliff14a.tem not found
+WCliff15a.tem not found
+WCliff16a.tem not found
+WCliff17a.tem not found
+WCliff18a.tem not found
+WCliff19a.tem not found
+WCliff20a.tem not found
+WCliff21a.tem not found
+WCliff22a.tem not found
+WCliff23a.tem not found
+WCliff24a.tem not found
+WCliff25a.tem not found
+WCliff26a.tem not found
+WCliff27a.tem not found
+WCliff28a.tem not found
+Droadc01a.tem not found
+Droadc02a.tem not found
+Droadc03a.tem not found
+Droadc04a.tem not found
+Droadc05a.tem not found
+Droadc06a.tem not found
+Droadc07a.tem not found
+Droadc08a.tem not found
+Droadc09a.tem not found
+Droadc10a.tem not found
+Droadc11a.tem not found
+Droadc12a.tem not found
+Droadc13a.tem not found
+Droadc14a.tem not found
+Droadc15a.tem not found
+Droadc16a.tem not found
+Droadc17a.tem not found
+Droadc18a.tem not found
+Droadc19a.tem not found
+Droadc20a.tem not found
+Droadc21a.tem not found
+Droadc22a.tem not found
+Droadc23a.tem not found
+Droadc24a.tem not found
+Droadj01a.tem not found
+Droadj02a.tem not found
+Droadj03a.tem not found
+Droadj04a.tem not found
+Droadj05a.tem not found
+Droadj06a.tem not found
+Droadj07a.tem not found
+Droadj08a.tem not found
+Droadj09a.tem not found
+Droadj10a.tem not found
+Droadj11a.tem not found
+Droads01a.tem not found
+Droads02a.tem not found
+Droads03a.tem not found
+Droads04a.tem not found
+Droads05a.tem not found
+Droads06a.tem not found
+Droads07a.tem not found
+Droads08a.tem not found
+Droads09a.tem not found
+Droads10a.tem not found
+Droads11a.tem not found
+Droads12a.tem not found
+Droads13a.tem not found
+Droads14a.tem not found
+Droads15a.tem not found
+Droads16a.tem not found
+Droads17a.tem not found
+Droads18a.tem not found
+Droads19a.tem not found
+Droads20a.tem not found
+Droads21a.tem not found
+Droads22a.tem not found
+Droads23a.tem not found
+Droads24a.tem not found
+Droads25a.tem not found
+Droads26a.tem not found
+Droads27a.tem not found
+Droads28a.tem not found
+Droads29a.tem not found
+Droads30a.tem not found
+Droads31a.tem not found
+Droads32a.tem not found
+Droads33a.tem not found
+Droads34a.tem not found
+Droads35a.tem not found
+Droads36a.tem not found
+Droads37a.tem not found
+Droads38a.tem not found
+Droads39a.tem not found
+Droads40a.tem not found
+Droads41a.tem not found
+Droads42a.tem not found
+Droads43a.tem not found
+Droads44a.tem not found
+Droads45a.tem not found
+Droads46a.tem not found
+Droads47a.tem not found
+Droads48a.tem not found
+Droads49a.tem not found
+Droads50a.tem not found
+Droads51a.tem not found
+Droads52a.tem not found
+Droads53a.tem not found
+Droads54a.tem not found
+Droads55a.tem not found
+Droads56a.tem not found
+Droads57a.tem not found
+Droads58a.tem not found
+Droads59a.tem not found
+Droads60a.tem not found
+Droads61a.tem not found
+Droads62a.tem not found
+Droads63a.tem not found
+Droads64a.tem not found
+Droads65a.tem not found
+Droads66a.tem not found
+Ovrps01b.tem not found
+Ovrps02b.tem not found
+Ovrps03b.tem not found
+Ovrps04b.tem not found
+Ovrps05b.tem not found
+Ovrps06b.tem not found
+Ovrps07a.tem not found
+Ovrps08a.tem not found
+Ovrps09a.tem not found
+Ovrps10a.tem not found
+Ovrps11a.tem not found
+Ovrps12a.tem not found
+Ovrps13a.tem not found
+Ovrps14a.tem not found
+Ovrps15a.tem not found
+Ovrps16a.tem not found
+Proad01d.tem not found
+Proad02d.tem not found
+Proad03a.tem not found
+Proad04a.tem not found
+Proad05a.tem not found
+Proad06a.tem not found
+Proad07a.tem not found
+Proad08a.tem not found
+Proad09a.tem not found
+Proad10a.tem not found
+Proad11a.tem not found
+Proad12a.tem not found
+Proad13a.tem not found
+Proad14a.tem not found
+Proad15a.tem not found
+Proad16a.tem not found
+Proad17a.tem not found
+Proad18a.tem not found
+Proad19a.tem not found
+Proad20a.tem not found
+Proad21a.tem not found
+Water01a.tem not found
+Water02a.tem not found
+Water03a.tem not found
+Water04a.tem not found
+Water05a.tem not found
+Water06a.tem not found
+Water07a.tem not found
+Water08a.tem not found
+Water09a.tem not found
+Water10a.tem not found
+Water11a.tem not found
+Water12a.tem not found
+Water13a.tem not found
+Water14a.tem not found
+Mclif01a.tem not found
+Mclif02a.tem not found
+Mclif03a.tem not found
+Mclif04a.tem not found
+Mclif05a.tem not found
+Mclif06a.tem not found
+Mclif07a.tem not found
+Mclif08a.tem not found
+Mclif09a.tem not found
+Mclif10a.tem not found
+Mclif11a.tem not found
+Mclif12a.tem not found
+Mclif13a.tem not found
+Mclif14a.tem not found
+Mclif15a.tem not found
+Mclif16a.tem not found
+Mclif17a.tem not found
+Mclif18a.tem not found
+Mclif19a.tem not found
+Mclif20a.tem not found
+Mclif21a.tem not found
+Mclif22a.tem not found
+Mclif23a.tem not found
+Mclif24a.tem not found
+Mclif25a.tem not found
+Mclif26a.tem not found
+Mclif27a.tem not found
+Mclif28a.tem not found
+Mclif29a.tem not found
+Mclif30a.tem not found
+Mclif31a.tem not found
+Mclif32a.tem not found
+Mclif33b.tem not found
+Mclif34b.tem not found
+Mclif35a.tem not found
+Mclif36a.tem not found
+Mclif37a.tem not found
+Mclif38a.tem not found
+Mclif39a.tem not found
+Mclif40a.tem not found
+DRSLPE01a.tem not found
+DRSLPE02a.tem not found
+DRSLPE03a.tem not found
+DRSLPE04a.tem not found
+DRSLPE05a.tem not found
+DRSLPE06a.tem not found
+DRSLPE07a.tem not found
+DRSLPE08a.tem not found
+MDRSLP01a.tem not found
+MDRSLP02a.tem not found
+MDRSLP03a.tem not found
+MDRSLP04a.tem not found
+MDRSLP05a.tem not found
+MDRSLP06a.tem not found
+MDRSLP07a.tem not found
+MDRSLP08a.tem not found
+RAMP01a.tem not found
+RAMP02a.tem not found
+RAMP03a.tem not found
+RAMP04a.tem not found
+RAMP05a.tem not found
+RAMP06a.tem not found
+RAMP07a.tem not found
+RAMP08a.tem not found
+RAMP09a.tem not found
+RAMP10a.tem not found
+MRAM01a.tem not found
+MRAM02a.tem not found
+MRAM03a.tem not found
+MRAM04a.tem not found
+MRAM05a.tem not found
+MRAM06a.tem not found
+MRAM07a.tem not found
+MRAM08a.tem not found
+MRAM09a.tem not found
+MRAM10a.tem not found
+TANKER01a.tem not found
+RUIN01a.tem not found
+hyte01a.tem not found
+hyte02a.tem not found
+hyte03a.tem not found
+hyte04a.tem not found
+hyte05a.tem not found
+hyte06a.tem not found
+hyte07a.tem not found
+hyte08a.tem not found
+hyte09a.tem not found
+hyte10a.tem not found
+W-a-01a.tem not found
+W-a-02a.tem not found
+W-a-03a.tem not found
+W-a-04a.tem not found
+Des0101a.tem not found
+Des0102a.tem not found
+Des0103a.tem not found
+Des0104a.tem not found
+Des0105a.tem not found
+Des0106a.tem not found
+Des0107a.tem not found
+Des0108a.tem not found
+Des0109a.tem not found
+Des0110a.tem not found
+Des0111a.tem not found
+Des0112a.tem not found
+Des0113a.tem not found
+Des0114a.tem not found
+Des0115a.tem not found
+Des0116a.tem not found
+Des0117a.tem not found
+Des0118a.tem not found
+Des0119a.tem not found
+Des0120a.tem not found
+Des0121a.tem not found
+Des0122a.tem not found
+Des0123a.tem not found
+Des0124a.tem not found
+Des0125a.tem not found
+Des0126a.tem not found
+Des0127a.tem not found
+Des0128a.tem not found
+Des0129a.tem not found
+Des0130a.tem not found
+Des0131a.tem not found
+Des0132a.tem not found
+Des0133a.tem not found
+Des0134a.tem not found
+Des0135a.tem not found
+Des0136a.tem not found
+Des0137a.tem not found
+Des0138a.tem not found
+Des0139a.tem not found
+Des0140a.tem not found
+Des0141a.tem not found
+Des0142a.tem not found
+Des0143a.tem not found
+Des0144a.tem not found
+Des0145a.tem not found
+Des0146a.tem not found
+Des0147a.tem not found
+Des0148a.tem not found
+Des0201a.tem not found
+Des0202a.tem not found
+Des0203a.tem not found
+Des0204a.tem not found
+Des0205a.tem not found
+Des0206a.tem not found
+Des0207a.tem not found
+Des0208a.tem not found
+Des0209a.tem not found
+Des0210a.tem not found
+Des0211a.tem not found
+Des0212a.tem not found
+Des0213a.tem not found
+Des0214a.tem not found
+Des0215a.tem not found
+Des0216a.tem not found
+Des0217a.tem not found
+Des0218a.tem not found
+Des0219a.tem not found
+Des0220a.tem not found
+Des0221a.tem not found
+Des0222a.tem not found
+Des0223a.tem not found
+Des0224a.tem not found
+Des0225a.tem not found
+Des0226a.tem not found
+Des0227a.tem not found
+Des0228a.tem not found
+Des0229a.tem not found
+Des0230a.tem not found
+Des0231a.tem not found
+Des0232a.tem not found
+Des0233a.tem not found
+Des0234a.tem not found
+Des0235a.tem not found
+Des0236a.tem not found
+Des0237a.tem not found
+Des0238a.tem not found
+Des0239a.tem not found
+Des0240a.tem not found
+Des0241a.tem not found
+Des0242a.tem not found
+Des0243a.tem not found
+Des0244a.tem not found
+Des0245a.tem not found
+Des0246a.tem not found
+Des0247a.tem not found
+Des0248a.tem not found
+dlat01b.tem not found
+dlat02b.tem not found
+dlat03b.tem not found
+dlat04b.tem not found
+dlat05b.tem not found
+dlat06b.tem not found
+dlat07b.tem not found
+dlat08b.tem not found
+dlat09b.tem not found
+dlat10b.tem not found
+dlat11b.tem not found
+dlat12b.tem not found
+dlat13b.tem not found
+dlat14b.tem not found
+dlat15b.tem not found
+dlat16b.tem not found
+Rough01a.tem not found
+Rough02a.tem not found
+Rough03a.tem not found
+Rough04a.tem not found
+Rough05a.tem not found
+Rough06a.tem not found
+Rough07a.tem not found
+Rough08a.tem not found
+Rough09a.tem not found
+Rough10a.tem not found
+p_end01a.tem not found
+p_end02a.tem not found
+p_end03a.tem not found
+p_end04a.tem not found
+Tovrps01b.tem not found
+Tovrps02b.tem not found
+Tovrps03b.tem not found
+Tovrps04b.tem not found
+Tovrps05b.tem not found
+Tovrps06b.tem not found
+Tovrps07a.tem not found
+Tovrps08a.tem not found
+Tovrps09a.tem not found
+Tovrps10a.tem not found
+Tovrps11a.tem not found
+Tovrps12a.tem not found
+Tovrps13a.tem not found
+Tovrps14a.tem not found
+Tovrps15a.tem not found
+Tovrps16a.tem not found
+Pave01a.tem not found
+Pave02a.tem not found
+Pave03a.tem not found
+Pave04a.tem not found
+Pave05a.tem not found
+Pave06a.tem not found
+Pave07a.tem not found
+Pave08a.tem not found
+Pave09a.tem not found
+Pave10a.tem not found
+Pave11a.tem not found
+Pave12a.tem not found
+Pave13a.tem not found
+Pave14a.tem not found
+plat01b.tem not found
+plat02b.tem not found
+plat03b.tem not found
+plat04b.tem not found
+plat05b.tem not found
+plat06b.tem not found
+plat07b.tem not found
+plat08b.tem not found
+plat09b.tem not found
+plat10b.tem not found
+plat11b.tem not found
+plat12b.tem not found
+plat13b.tem not found
+plat14b.tem not found
+plat15b.tem not found
+plat16b.tem not found
+proadc01a.tem not found
+proadc02a.tem not found
+proadc03a.tem not found
+proadc04a.tem not found
+proadc05a.tem not found
+proadc06a.tem not found
+proadc07a.tem not found
+proadc08a.tem not found
+proadc09a.tem not found
+proadc10a.tem not found
+proadc11a.tem not found
+proadc12a.tem not found
+proadc13a.tem not found
+proadc14a.tem not found
+glat01b.tem not found
+glat02b.tem not found
+glat03b.tem not found
+glat04b.tem not found
+glat05b.tem not found
+glat06b.tem not found
+glat07b.tem not found
+glat08b.tem not found
+glat09b.tem not found
+glat10b.tem not found
+glat11b.tem not found
+glat12b.tem not found
+glat13b.tem not found
+glat14b.tem not found
+glat15b.tem not found
+glat16b.tem not found
+Rmpfx01d.tem not found
+Rmpfx02d.tem not found
+Rmpfx03d.tem not found
+Rmpfx04d.tem not found
+Rmpfx05d.tem not found
+Rmpfx06d.tem not found
+Rmpfx07d.tem not found
+Rmpfx08d.tem not found
+Rmpfx09d.tem not found
+Rmpfx10d.tem not found
+Rmpfx11d.tem not found
+Rmpfx12d.tem not found
+Mrmfx01a.tem not found
+Mrmfx02a.tem not found
+Mrmfx03a.tem not found
+Mrmfx04a.tem not found
+Mrmfx05a.tem not found
+Mrmfx06a.tem not found
+Mrmfx07a.tem not found
+Mrmfx08a.tem not found
+Mrmfx09a.tem not found
+Mrmfx10a.tem not found
+Mrmfx11a.tem not found
+Mrmfx12a.tem not found
+WSLOPE01a.tem not found
+WSLOPE02a.tem not found
+WSLOPE03a.tem not found
+WSLOPE04a.tem not found
+Prslpe01a.tem not found
+Prslpe02a.tem not found
+Prslpe03a.tem not found
+Prslpe04a.tem not found
+Tslope01a.tem not found
+Tslope02a.tem not found
+Tslope03a.tem not found
+Tslope04a.tem not found
+W-b-01a.tem not found
+W-b-02a.tem not found
+W-b-03a.tem not found
+W-b-04a.tem not found
+W-c-01a.tem not found
+W-c-02a.tem not found
+W-c-03a.tem not found
+W-c-04a.tem not found
+W-d-01a.tem not found
+W-d-02a.tem not found
+W-d-03a.tem not found
+W-d-04a.tem not found
+hyte01a.tem not found
+hyte02a.tem not found
+hyte03a.tem not found
+hyte04a.tem not found
+hyte05a.tem not found
+hyte06a.tem not found
+hyte07a.tem not found
+hyte08a.tem not found
+hyte09a.tem not found
+hyte10a.tem not found
+hyte11a.tem not found
+hyte12a.tem not found
+hyte13a.tem not found
+hyte14a.tem not found
+hyte15a.tem not found
+tunnel01a.tem not found
+tunnel02a.tem not found
+tunnel03a.tem not found
+tunnel04a.tem not found
+tunnex01a.tem not found
+tunnex02a.tem not found
+tunnet01a.tem not found
+tunnet02a.tem not found
+tunnet03a.tem not found
+tunnet04a.tem not found
+dcliff01a.tem not found
+dcliff02a.tem not found
+Wcave01a.tem not found
+Wcave02a.tem not found
+Wcave03a.tem not found
+Wcave04a.tem not found
+Wcave05a.tem not found
+Wcave06a.tem not found
+Wcave07a.tem not found
+Wcave08a.tem not found
+MDrodc01a.tem not found
+MDrodc02a.tem not found
+MDrodc03a.tem not found
+MDrodc04a.tem not found
+MDrodc05a.tem not found
+MDrodc06a.tem not found
+MDrodc07a.tem not found
+MDrodc08a.tem not found
+MDrodc09a.tem not found
+MDrodc10a.tem not found
+MDrodc11a.tem not found
+MDrodc12a.tem not found
+MDrodc13a.tem not found
+MDrodc14a.tem not found
+MDrodc15a.tem not found
+MDrodc16a.tem not found
+MDrodc17a.tem not found
+MDrodc18a.tem not found
+MDrodc19a.tem not found
+MDrodc20a.tem not found
+MDrodc21a.tem not found
+MDrodc22a.tem not found
+MDrodc23a.tem not found
+MDrodc24a.tem not found
+MDrodj01a.tem not found
+MDrodj02a.tem not found
+MDrodj03a.tem not found
+MDrodj04a.tem not found
+MDrodj05a.tem not found
+MDrodj06a.tem not found
+MDrodj07a.tem not found
+MDrodj08a.tem not found
+MDrodj09a.tem not found
+MDrodj10a.tem not found
+MDrodj11a.tem not found
+MDrods01a.tem not found
+MDrods02a.tem not found
+MDrods03a.tem not found
+MDrods04a.tem not found
+MDrods05a.tem not found
+MDrods06a.tem not found
+MDrods07a.tem not found
+MDrods08a.tem not found
+MDrods09a.tem not found
+MDrods10a.tem not found
+MDrods11a.tem not found
+MDrods12a.tem not found
+MDrods13a.tem not found
+MDrods14a.tem not found
+MDrods15a.tem not found
+MDrods16a.tem not found
+MDrods17a.tem not found
+MDrods18a.tem not found
+MDrods19a.tem not found
+MDrods20a.tem not found
+MDrods21a.tem not found
+MDrods22a.tem not found
+MDrods23a.tem not found
+MDrods24a.tem not found
+MDrods25a.tem not found
+MDrods26a.tem not found
+MDrods27a.tem not found
+MDrods28a.tem not found
+MDrods29a.tem not found
+MDrods30a.tem not found
+MDrods31a.tem not found
+MDrods32a.tem not found
+MDrods33a.tem not found
+MDrods34a.tem not found
+MDrods35a.tem not found
+MDrods36a.tem not found
+MDrods37a.tem not found
+MDrods38a.tem not found
+MDrods39a.tem not found
+MDrods40a.tem not found
+MDrods41a.tem not found
+MDrods42a.tem not found
+MDrods43a.tem not found
+MDrods44a.tem not found
+MDrods45a.tem not found
+MDrods46a.tem not found
+MDrods47a.tem not found
+MDrods48a.tem not found
+MDrods49a.tem not found
+MDrods50a.tem not found
+MDrods51a.tem not found
+MDrods52a.tem not found
+MDrods53a.tem not found
+MDrods54a.tem not found
+MDrods55a.tem not found
+MDrods56a.tem not found
+MDrods57a.tem not found
+MDrods58a.tem not found
+MDrods59a.tem not found
+MDrods60a.tem not found
+MDrods61a.tem not found
+MDrods62a.tem not found
+MDrods63a.tem not found
+MDrods64a.tem not found
+MDrods65a.tem not found
+MDrods66a.tem not found
+MShore01a.tem not found
+MShore02a.tem not found
+MShore03a.tem not found
+MShore04a.tem not found
+MShore05a.tem not found
+MShore06a.tem not found
+MShore07a.tem not found
+MShore08a.tem not found
+MShore09a.tem not found
+MShore10a.tem not found
+MShore11a.tem not found
+MShore12a.tem not found
+MShore13a.tem not found
+MShore14a.tem not found
+MShore15a.tem not found
+MShore16a.tem not found
+MShore17a.tem not found
+MShore18a.tem not found
+MShore19a.tem not found
+MShore20a.tem not found
+MShore21a.tem not found
+MShore22a.tem not found
+MShore23a.tem not found
+MShore24a.tem not found
+MShore25a.tem not found
+MShore26a.tem not found
+MShore27a.tem not found
+MShore28a.tem not found
+MShore29a.tem not found
+MShore30a.tem not found
+MShore31a.tem not found
+MShore32a.tem not found
+MShore33a.tem not found
+MShore34a.tem not found
+MShore35a.tem not found
+MShore36a.tem not found
+MShore37a.tem not found
+MShore38a.tem not found
+MShore39a.tem not found
+MShore40a.tem not found
+MShore41a.tem not found
+MShore42a.tem not found
+MWa-01a.tem not found
+MWa-02a.tem not found
+MWa-03a.tem not found
+MWa-04a.tem not found
+MWb-01a.tem not found
+MWb-02a.tem not found
+MWb-03a.tem not found
+MWb-04a.tem not found
+MWc-01a.tem not found
+MWc-02a.tem not found
+MWc-03a.tem not found
+MWc-04a.tem not found
+MWd-01a.tem not found
+MWd-02a.tem not found
+MWd-03a.tem not found
+MWd-04a.tem not found
+MWcave01a.tem not found
+MWcave02a.tem not found
+MWcave03a.tem not found
+MWcave04a.tem not found
+MWcave05a.tem not found
+MWcave06a.tem not found
+MWcave07a.tem not found
+MWcave08a.tem not found
+MWClif01a.tem not found
+MWClif02a.tem not found
+MWClif03a.tem not found
+MWClif04a.tem not found
+MWClif05a.tem not found
+MWClif06a.tem not found
+MWClif07a.tem not found
+MWClif08a.tem not found
+MWClif09a.tem not found
+MWClif10a.tem not found
+MWClif11a.tem not found
+MWClif12a.tem not found
+MWClif13a.tem not found
+MWClif14a.tem not found
+MWClif15a.tem not found
+MWClif16a.tem not found
+MWClif17a.tem not found
+MWClif18a.tem not found
+MWClif19a.tem not found
+MWClif20a.tem not found
+MWClif21a.tem not found
+MWClif22a.tem not found
+MWClif23a.tem not found
+MWClif24a.tem not found
+MWClif25a.tem not found
+MWClif26a.tem not found
+MWClif27a.tem not found
+MWClif28a.tem not found
+MWSLOP01a.tem not found
+MWSLOP02a.tem not found
+MWSLOP03a.tem not found
+MWSLOP04a.tem not found
+MWater01a.tem not found
+MWater02a.tem not found
+MWater03a.tem not found
+MWater04a.tem not found
+MWater05a.tem not found
+MWater06a.tem not found
+MWater07a.tem not found
+MWater08a.tem not found
+MWater09a.tem not found
+MWater10a.tem not found
+MWater11a.tem not found
+MWater12a.tem not found
+MWater13a.tem not found
+MWater14a.tem not found
+Scrin01a.tem not found
+Scrin02a.tem not found
+Scrin03a.tem not found
+Scrin04a.tem not found
+Scrin05a.tem not found
+Scrin06a.tem not found
+MScrin01.tem not found
+MScrin01a.tem not found
+MScrin02.tem not found
+MScrin02a.tem not found
+MScrin03.tem not found
+MScrin03a.tem not found
+MScrin04.tem not found
+MScrin04a.tem not found
+MScrin05.tem not found
+MScrin05a.tem not found
+MScrin06.tem not found
+MScrin06a.tem not found
+dtunnt01a.tem not found
+dtunnt02a.tem not found
+dtunnt03a.tem not found
+dtunnt04a.tem not found
+dtunn01a.tem not found
+dtunn02a.tem not found
+dtunn03a.tem not found
+dtunn04a.tem not found
+Cylat01b.tem not found
+Cylat02b.tem not found
+Cylat03b.tem not found
+Cylat04b.tem not found
+Cylat05b.tem not found
+Cylat06b.tem not found
+Cylat07b.tem not found
+Cylat08b.tem not found
+Cylat09b.tem not found
+Cylat10b.tem not found
+Cylat11b.tem not found
+Cylat12b.tem not found
+Cylat13b.tem not found
+Cylat14b.tem not found
+Cylat15b.tem not found
+Cylat16b.tem not found
+Swamp02a.tem not found
+Swamp03a.tem not found
+Swamp04a.tem not found
+Swamp05a.tem not found
+Swamp06a.tem not found
+Swamp07a.tem not found
+Swamp08a.tem not found
+Swamp09a.tem not found
+Slat01b.tem not found
+Slat02b.tem not found
+Slat03b.tem not found
+Slat04b.tem not found
+Slat05b.tem not found
+Slat06b.tem not found
+Slat07b.tem not found
+Slat08b.tem not found
+Slat09b.tem not found
+Slat10b.tem not found
+Slat11b.tem not found
+Slat12b.tem not found
+Slat13b.tem not found
+Slat14b.tem not found
+Slat15b.tem not found
+Slat16b.tem not found
+Blat01b.tem not found
+Blat02b.tem not found
+Blat03b.tem not found
+Blat04b.tem not found
+Blat05b.tem not found
+Blat06b.tem not found
+Blat07b.tem not found
+Blat08b.tem not found
+Blat09b.tem not found
+Blat10b.tem not found
+Blat11b.tem not found
+Blat12b.tem not found
+Blat13b.tem not found
+Blat14b.tem not found
+Blat15b.tem not found
+Blat16b.tem not found
+CCliff01a.tem not found
+CCliff02a.tem not found
+CCliff03a.tem not found
+CCliff04a.tem not found
+CCliff05a.tem not found
+CCliff06a.tem not found
+Crash01a.tem not found
+Crash02a.tem not found
+Crash03a.tem not found
+Crash04a.tem not found
+Crash05a.tem not found
+Crash06a.tem not found
+Crash07a.tem not found
+MCClif01a.tem not found
+MCClif02a.tem not found
+MCClif03a.tem not found
+MCClif04a.tem not found
+MCClif05a.tem not found
+MCClif06a.tem not found
+mtunnl01a.tem not found
+mtunnl02a.tem not found
+mtunnl03a.tem not found
+mtunnl04a.tem not found
+mtunnx01a.tem not found
+mtunnx02a.tem not found
+Mtslop01a.tem not found
+Mtslop02a.tem not found
+Mtslop03a.tem not found
+Mtslop04a.tem not found
+Mdclif01a.tem not found
+Mdclif02a.tem not found
+LoadMap() allocates fielddata
+LoadMap() unpacks data
+LoadMap() updates from ini
+192 113
+192 114
+192 115
+192 116
+192 117
+192 118
+192 119
+193 107
+193 108
+193 109
+193 110
+193 111
+193 112
+193 113
+193 114
+193 115
+193 116
+193 117
+193 118
+194 108
+194 109
+194 110
+194 111
+194 112
+194 113
+194 114
+194 115
+194 116
+194 117
+195 109
+195 110
+195 111
+195 112
+195 113
+195 114
+195 115
+195 116
+196 110
+196 111
+196 112
+196 113
+196 114
+196 115
+197 111
+197 112
+197 113
+197 114
+198 112
+198 113
+Overlay: TIB01.tem
+Loading: INORNGLAMP
+Loading: BIGBLACK
+Loading: BURNT02
+Loading: CRATER12
+Loading: CRATER08
+Loading: CRATER03
+Loading: BURNT11
+Overlay: TIB01.tem
+Loading: BURNT10
+Loading: CRATER10
+Loading: TIBLAMP3
+vxl turret: 0 size: 34 34 at 7 0
+vxl turret: 1 size: 34 34 at 7 0
+vxl turret: 2 size: 34 34 at 7 0
+vxl turret: 3 size: 34 34 at 7 0
+vxl turret: 4 size: 34 34 at 7 0
+vxl turret: 5 size: 34 34 at 7 0
+vxl turret: 6 size: 34 34 at 7 0
+vxl turret: 7 size: 34 34 at 7 0
+Loading: BURNT01
+Loading: CRATER11
+Loading: BURNT05
+Loading: CRATER09
+Loading: TREE25
+Overlay: TROCK02.tem
+Loading: GALITE
+Loading: BIGBLUE
+Overlay: TROCK05.tem
+Loading: TREE22
+Overlay: SROCK01.tem
+Overlay: TROCK04.tem
+Overlay: SROCK03.tem
+Overlay: SROCK04.tem
+Overlay: SROCK02.tem
+Loading: TIBLAMP4
+vxl turret: 0 size: 34 34 at 7 0
+vxl turret: 1 size: 34 34 at 7 0
+vxl turret: 2 size: 34 34 at 7 0
+vxl turret: 3 size: 34 34 at 7 0
+vxl turret: 4 size: 34 34 at 7 0
+vxl turret: 5 size: 34 34 at 7 0
+vxl turret: 6 size: 34 34 at 7 0
+vxl turret: 7 size: 34 34 at 7 0
+SaveMap() called
+Calling UpdateIniFile()
+UpdateMapFieldData() called
+Memory allocated for mappack, saving fielddata into mapfields
+About to call Pack()
+Erasing sections
+Creating Digest
+Values allocated. Pointer: 466449864
+Packing overlay
+Saving overlay
+Pack overlaydata
+Format80
+Base64
+Overlaydata done
+Pack isomappack
+done
+hexdata size: 105495
+Now converting to base64done
+finished copying into inifile
+Saving minimap
+CLoading::~CLoading finished. Available memory: 2147483646

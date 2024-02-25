@@ -1,0 +1,65 @@
+20.02. 12:06:14.499    ***Logfile for Tiberian Sun client***
+20.02. 12:06:14.505    Client version: 2.6.0.4
+20.02. 12:06:14.509    Loading settings.
+20.02. 12:06:14.586    Initializing updater.
+20.02. 12:06:14.591    Update mirror count: 1
+20.02. 12:06:14.594    Running from: clientdx.exe
+20.02. 12:06:14.599    Operating system: Microsoft Windows NT 6.2.9200.0
+20.02. 12:06:14.602    Selected OS profile: WIN810
+20.02. 12:06:14.606    Removing partial custom component downloads.
+20.02. 12:06:14.610    Checking for the existence of FinalSun.ini.
+20.02. 12:06:14.614    FinalSun settings file exists.
+20.02. 12:06:14.621    Writing installation path to the Windows registry.
+20.02. 12:06:15.063    Initializing GameClass.
+20.02. 12:06:15.173    InitGraphicsMode: 1280x800
+20.02. 12:06:15.295    Checking local file versions.
+20.02. 12:06:15.300    Loading maps.
+20.02. 12:06:15.695    Hardware info: AMD Ryzen 5 2600X Six-Core Processor            (6 cores) | Video controller: NVIDIA GeForce GTX 1070 Ti | Total physical memory: 16GB
+20.02. 12:06:15.880    Attempting to parse INI\Battle.ini to populate mission list.
+20.02. 12:06:15.888    Finished parsing INI\Battle.ini.
+20.02. 12:06:15.892    Attempting to parse INI\BattleFS.ini to populate mission list.
+20.02. 12:06:15.896    Finished parsing INI\BattleFS.ini.
+20.02. 12:06:15.983    Reading statistics.
+20.02. 12:06:16.182    KABOOOOOOM!!! Info:
+20.02. 12:06:16.189    Message: Length cannot be less than zero.
+Parameter name: length
+20.02. 12:06:16.206    Source: mscorlib
+20.02. 12:06:16.210    TargetSite.Name: Substring
+20.02. 12:06:16.217    Stacktrace:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at DTAClient.Domain.Multiplayer.Map.GetWaypointCoords(String waypoint, String[] actualSizeValues, String[] localSizeValues, Point previewSizePoint)
+   at DTAClient.Domain.Multiplayer.Map.GetStartingLocationPreviewCoords(Point previewSize)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.MapPreviewBox.UpdateMap()
+   at DTAClient.DXGUI.Multiplayer.GameLobby.MapPreviewBox.set_Map(Map value)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.GameLobbyBase.ChangeMap(GameMode gameMode, Map map)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.GameLobbyBase.LbMapList_SelectedIndexChanged(Object sender, EventArgs e)
+   at Rampastring.XNAUI.XNAControls.XNAMultiColumnListBox.ListBox_SelectedIndexChanged(Object sender, EventArgs e)
+   at Rampastring.XNAUI.XNAControls.XNAListBox.set_SelectedIndex(Int32 value)
+   at Rampastring.XNAUI.XNAControls.XNAMultiColumnListBox.set_SelectedIndex(Int32 value)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.GameLobbyBase.DdGameMode_SelectedIndexChanged(Object sender, EventArgs e)
+   at Rampastring.XNAUI.XNAControls.XNADropDown.set_SelectedIndex(Int32 value)
+   at DTAClient.DXGUI.Multiplayer.GameLobby.SkirmishLobby.LoadSettings()
+   at DTAClient.DXGUI.Multiplayer.GameLobby.SkirmishLobby.Initialize()
+   at Rampastring.XNAUI.XNAControls.XNAControl.AddChildImmediate(XNAControl child)
+   at Rampastring.XNAUI.XNAControls.XNAControl.AddChild(XNAControl child)
+   at ClientGUI.DarkeningPanel.AddChild(XNAControl child)
+   at ClientGUI.DarkeningPanel.AddAndInitializeWithControl(WindowManager wm, XNAControl control)
+   at DTAClient.DXGUI.Generic.LoadingScreen.Finish()
+   at DTAClient.DXGUI.Generic.LoadingScreen.Update(GameTime gameTime)
+   at Rampastring.XNAUI.WindowManager.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.<.cctor>b__19(IUpdateable updateable, GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.SortingFilteringCollection`1.ForEachFilteredItem[TUserData](Action`2 action, TUserData userData)
+   at Microsoft.Xna.Framework.Game.Update(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at MonoGame.Framework.WinFormsGameWindow.TickOnIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at MonoGame.Framework.WinFormsGameWindow.RunLoop()
+   at MonoGame.Framework.WinFormsGamePlatform.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at DTAClient.Startup.Execute()
+   at DTAClient.PreStartup.Initialize(StartupParams parameters)
+   at DTAClient.Program.Main(String[] args)

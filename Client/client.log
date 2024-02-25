@@ -1,0 +1,28 @@
+30.05. 18:01:43.583    ***Logfile for Tiberian Sun client***
+30.05. 18:01:43.583    Client version: 2.6.0.4
+30.05. 18:01:43.583    Loading settings.
+30.05. 18:01:43.708    Initializing updater.
+30.05. 18:01:43.708    Update mirror count: 1
+30.05. 18:01:43.708    Running from: clientdx.exe
+30.05. 18:01:43.708    Operating system: Microsoft Windows NT 6.2.9200.0
+30.05. 18:01:43.708    Selected OS profile: WIN810
+30.05. 18:01:43.708    Removing partial custom component downloads.
+30.05. 18:01:43.708    Checking for the existence of FinalSun.ini.
+30.05. 18:01:43.708    FinalSun settings file exists.
+30.05. 18:01:43.708    Writing installation path to the Windows registry.
+30.05. 18:01:44.243    Initializing GameClass.
+30.05. 18:01:44.353    InitGraphicsMode: 1920x1080
+30.05. 18:01:44.493    Checking local file versions.
+30.05. 18:01:44.503    Loading maps.
+30.05. 18:01:45.018    Hardware info: AMD Ryzen 5 2600X Six-Core Processor            (6 cores) | Video controller: NVIDIA GeForce GTX 1070 Ti | Total physical memory: 16GB
+30.05. 18:01:45.553    Attempting to parse INI\Battle.ini to populate mission list.
+30.05. 18:01:45.563    Finished parsing INI\Battle.ini.
+30.05. 18:01:45.563    Attempting to parse INI\BattleFS.ini to populate mission list.
+30.05. 18:01:45.563    Finished parsing INI\BattleFS.ini.
+30.05. 18:01:45.653    Reading statistics.
+30.05. 18:01:46.193    AssetLoader.LoadSound: Sound not found! getready.wav
+30.05. 18:01:46.203    AssetLoader.LoadSound: Sound not found! getready.wav
+30.05. 18:01:46.363    AssetLoader.LoadSound: Sound not found! getready.wav
+30.05. 18:01:46.383    AssetLoader.LoadSound: Sound not found! getready.wav
+30.05. 18:01:48.053    Exiting.
+30.05. 18:01:48.053    Saving friend and ignore list.

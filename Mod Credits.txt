@@ -1,0 +1,350 @@
+Credits for Tiberian Sun Faction Expansion Mod - ALPHA 2.3.7
+
+[Goal]
+The Main Goal of this Mod is to add addition factions to Tiberain Sun Client 5.46 and some minor Tweaks to gameplay.
+The Factions added are Cabal and HSF.
+The Cabal's faction is a split of Nod Tech with cybernetic units, Mutegenic Weapons, and Subterrianian Tech.
+The HSF is a subfaction of GDI that specializes on experimental technology, HSF stands for Hammerfest Security Forces, They specialize in EMP, Hover, and Particle Weaponry.
+
+[Mod State]
+The Game is currently in Alpha but it has a fully functional Multiplayer and Skrimish menus, unless I missed something.
+The Campaign currently does not work and is disable by default.
+The Mod Standalone which mean that the mod doesn't require the base Client.
+
+[Assets]
+The Mod also replaces unit sprites and voxels with community assets and my custom assets.
+The Mod also contains Randoms Maps that I converted from Tiberian Sun.
+
+[Credits]
+
+WillyDingus: 
+	Developer and coder of the Modification
+	
+CrimsonAlphaField: 
+	Concept Art, Beta Testing, and Development Ideas
+	
+SuperJoe: 
+	"Mammoth Mk.II" Resize of Voxel
+	"Shredder Cyborg" Sprite, Cameo, Base code
+	
+Tyler Adams: 
+	Blank Tiberian Sun Cameos that where used for creating the new Cameos for the mod.
+	
+Muldrake: 
+	"Sabre" Voxel	
+	
+Stygs: 
+	"Mobile Weapons Factory" Vehicle Voxels, 
+	"Fist of Nod" Vehicle Voxels, 
+	"Juggernaut" Unit and Structure Sprites Recolor, 
+	"Juggernaut" Barrel Voxel		
+	
+Bu7loos: 
+	"Mobile Repair Transport" Voxel,
+	"Harpoon" Voxel, "Mix of two voxels"
+	"Railgun Tank" Voxel,
+	HSF's "Mobile EM-Pulse" Voxel,
+	GDI's "Mobile EM-Pulse" Voxel,	
+	"Mutagenics Tank" Voxel,
+	"Hydra" Voxel
+	
+azri_apoc: 
+	"Tick Tank" Voxel, 
+	"Devil's Tongue" Voxel, 
+	"Attack Cycle" Voxel, 
+	"Attack Buggy" Voxel, 
+	"Artillery"	Voxel,
+	"Plasma Tank" Voxel
+	
+CyborgCommandoKerem: 
+	"Toxin Soldier" Sprite		
+	
+areaSZ: 
+	"Titan" base Sprite																
+206UE: 
+	"Titan" fixed Sprite 	
+	
+Lin Kuei Ominae:
+	"Core Mech" Sprite, Cameo, and Base code
+	"Shredder Mech" Sprite, Cameo, and Base code
+	"Core Spider" Sprite, Cameo, and Base code
+	"Phased Spider" Sprite and Base code
+	"Triton" Sprite, Base code
+	
+Atomic_Noodles:
+	"Cyborg Reaper" Sprite
+	
+Jah:
+	"Scrin Swarmer" Voxel
+	
+Shin.Peter.Pan(Issly):
+	"Mammoth Tank" Voxel,
+	"Amphibious APC" Voxel,
+	"Disruptor" Voxel
+	
+Red Alert 1 Assets
+	"Flamethrower's Weapon Flame Projectile and Explosion Animation"
+	"Flamethrower's Weapon Sound"
+	"Tank Sounds"
+	"Flak Cannon Sounds"
+	
+Messiah
+	"Venom Tank" Voxel
+	
+luxycomplex
+	"Montauk" Base Voxel
+	
+ReaperAA
+	"Flame Tank" Voxel
+	
+Humble
+	"Balance and Veteran Patch" Code from CNCNet TS Client Maps
+Skylegend
+	"Balance and Veteran Patch" Code from CNCNet TS Client Maps
+Xme
+	"Balance and Veteran Patch" Code from CNCNet TS Client Maps
+
+[Links to Community Assets or Tools]
+Alpha 1
+https://ppmforums.com/topic-43363/heavy-scrin-bomber-ts/?sid=9205612d66e4ddfa6237eb17240ea51f
+https://ppmforums.com/topic-43363/heavy-scrin-bomber-ts/?sid=9205612d66e4ddfa6237eb17240ea51f
+https://ppmforums.com/topic-26628/resized-mammoth-mkii-ts/
+https://ppmforums.com/topic-7813/blank-tiberian-sun-cameos/
+https://ppmforums.com/viewtopic.php?t=10830																		
+https://ppmforums.com/topic-12013/gdi-unit-remakes-ts/?sid=6b601b7b9cb3b543322041f0c9668b70
+https://ppmforums.com/topic-31330/unofficial-fan-ti-globotech-voxel-pack-1/?sid=6b601b7b9cb3b543322041f0c9668b70							
+https://ppmforums.com/topic-29746/nods-big-7/													
+https://ppmforums.com/topic-14782/black-hand-sniper/																
+https://ppmforums.com/viewtopic.php?t=16833																						
+https://ppmforums.com/viewtopic.php?p=562656&sid=9255b2b08f318d41af7b5c1e066888a0																					
+https://ppmforums.com/viewtopic.php?p=562656&sid=9255b2b08f318d41af7b5c1e066888a0
+Alpha 2
+https://ppmforums.com/topic-32201/small-nod-voxel-pack/
+https://ppmforums.com/viewtopic.php?t=13549
+https://ppmforums.com/viewtopic.php?t=7147
+https://ppmforums.com/topic-36900/ts-reaper-touch-up/
+Alpha 2.2
+https://ppmforums.com/topic-16227/ts-all-of-my-shps-from-tibweb/
+Alpha 2.3
+https://ppmforums.com/topic-30172/cyborg-infiltrator-ts/
+https://ppmforums.com/topic-22384/gdi-apcts/
+https://ppmforums.com/topic-35069/ts-sonic-tank-remake/
+https://ppmforums.com/topic-30595/mammoth-tank-hover-mlrs-for-ts/
+https://ppmforums.com/viewtopic.php?t=16227
+http://soundbible.com/1960-Shotgun-Old-School.html
+Alpha 2.3.3
+https://ppmforums.com/topic-45789/ts-old-tanks-in-new-dress/
+https://ppmforums.com/topic-33748/abandoned-project_ts_vxl/
+https://ppmforums.com/topic-42098/nod-flame-tank-ts/
+Alpha 2.3.4
+https://github.com/HumbleTS/Balance-Veteran-Patch/wiki/Balance-Veteran-Summary
+
+All Versions
+https://github.com/CnCNet/ts-patches
+https://ppmforums.com/topic-37926/cc-executable-modifier/
+
+______________________________________________________________________________________________________________________________
+
+[Asset File Structure]
+
+WillyDingus:
+	ecache06.mix
+	ecache07.mix
+	ecache08.mix
+	ecache09.mix
+	Expand01.mix
+	Sidec03.mix
+	Sidec04.mix				copy of Sidec02.mix
+	speech03.mix			copy of speech01.mix
+	speech04.mix			copy of speech02.mix
+	
+iran:
+	"TS-Patches" utility
+FunkyFr3sh:
+	"TS-Patches" utility
+hifi:
+	"TS-Patches" utility
+dkeeton:
+	"TS-Patches" utility
+CCHyper:
+	"TS-Patches" utility
+Rampastring:
+	"TS-Patches" utility
+Bittah:
+	"TS-Patches" utility
+AlexB:
+	"TS-Patches" utility
+E1Elite:
+	"TS-Patches" utility
+Lin Kuei Ominae:
+	"C&C Executable Modifier" Tool
+	
+Community Assets Used:
+	ecache10.mix contains Community assets with a file extension of .shp
+	Expand10.mix contains Community assets with file extensions of .vxl and .hva
+	Sounds01.mix a few sound files
+	
+Tyler Adams: 
+	acrftficon.shp
+	bdvhficon.shp
+	inficon.shp
+	swinficon.shp
+
+Muldrake: 
+	safv.hva
+	safv.vxl
+	safvbarl.hva
+	safvbarl.vxl
+	safvtur.hva
+	safvtur.vxl	
+
+Stygs: 
+	djugg.shp
+	djugg_a.shp
+	djuggmk.shp
+	jugger.shp
+
+	mwar_gdi.hva	
+	mwar_gdi.vxl
+	mwar_nod.hva	
+	mwar_nod.vxl	
+	mwar_s.hva	
+	mwar_s.vxl
+	
+	djuggbar.vxl
+	
+Bu7loos: 
+	plsmtnk.hva
+	plsmtnk.vxl
+	plsmtnkbarl.hva
+	plsmtnkbarl.vxl
+	plsmtnktur.hva
+	plsmtnktur.vxl
+	
+	ptnk.hva
+	ptnk.vxl
+	ptnkbarl.hva
+	ptnkbarl.vxl
+	ptnktur.hva
+	ptnktur.vxl
+
+	semptnk.hva
+	semptnk.vxl
+	
+	m_emp.hva
+	m_emp.vxl
+	
+	smrv.hva
+	smrv.vxl
+	
+	mrtnk.hva
+	mrtnk.vxl
+	
+	hbike.hva
+	hbike.vxl
+	
+azri_apoc:
+	art2.hva
+	art2.vxl
+	art2barl.hva
+	art2barl.vxl
+	art2tur.hva
+	art2tur.vxl
+	
+	bggy.hva
+	bggy.vxl
+	bggytur.hva
+	bggytur.vxl
+	
+	bike.hva
+	bike.vxl
+	
+	subtank.hva
+	subtank.vxl
+	
+	ttnk.hva
+	ttnk.vxl
+	
+CyborgCommandoKerem: 
+	plague.shp
+	
+SuperJoe:
+	hmec.hva
+	hmec.vxl
+	shmec.hva
+	shmec.vxl
+	cybass.shp
+	cybassicon.shp
+
+areaSZ:
+	mmch2.shp
+	
+206UE:
+	mmch2.shp
+	
+Lin Kuei Ominae
+	thorn.shp
+	thoriconn.shp
+	championn.shp
+	chamiconn.shp
+	drede.shp
+	drede_a.shp
+	rede.shp
+	redeicon.shp
+	triton.shp
+	
+Atomic_Noodles
+	smreaper.shp
+	
+Jah
+	cabfight.hva
+	cabfight.vxl
+	
+Shin.Peter.Pan(Issly)	
+	apc.hva
+	apc.vxl
+	apcw.hva
+	apcw.vxl
+	
+	4tnk.hva
+	4tnk.vxl
+	4tnkbarl.hva
+	4tnkbarl.vxl
+	4tnktur.hva
+	4tnktur.vxl
+
+	sonic.hva
+	sonic.vxl
+	sonictur.hva
+	sonictur.hva
+	
+Shotgun Old School Sound - RA The Sun God
+	shotgun1.aud
+	shotgun3.aud
+	
+Red Alert 1 Assets
+	flamball.shp
+	flammove.shp
+	flamexp1.shp
+	firebl3.aud
+	tank5.aud
+	tank6.aud
+	cannon1.aud
+	cannon2.aud
+	aacanon3.aud
+	
+Messiah
+	3tnk.hva
+	3tnk.vxl
+	3tnktur.hva
+	3tnktur.vxl
+	3tnkbarl.hva
+	3tnkbarl.vxl
+	
+luxycomplex
+	mntk.hva
+	mntk.vxl
+	
+ReaperAA
+	ftnk.hva
+	ftnk.vxl
