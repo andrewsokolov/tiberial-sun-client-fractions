@@ -11,12 +11,6 @@ import (
 	"gopkg.in/ini.v1"
 )
 
-var checked map[string]bool
-
-func init() {
-	checked = make(map[string]bool)
-}
-
 type SliceType interface {
 	~string | ~int | ~float64 // add more *comparable* types as needed
 }
@@ -66,10 +60,21 @@ func main() {
 		os.Exit(1)
 	}
 
-	Animations, _ := rules.GetSection("Animations")
-	BuildingTypes, _ := rules.GetSection("BuildingTypes")
-	AircraftTypes, _ := rules.GetSection("AircraftTypes")
-	VehicleTypes, _ := rules.GetSection("VehicleTypes")
+	rulesCount, err := ini.LoadSources(ini.LoadOptions{
+		UnparseableSections:     []string{},
+		IgnoreInlineComment:     true,
+		IgnoreContinuation:      true,
+		SkipUnrecognizableLines: true,
+	}, "INI/rules.ini")
+	if err != nil {
+		fmt.Printf("Fail to read file: %v", err)
+		os.Exit(1)
+	}
+
+	Animations, _ := rulesCount.GetSection("Animations")
+	BuildingTypes, _ := rulesCount.GetSection("BuildingTypes")
+	AircraftTypes, _ := rulesCount.GetSection("AircraftTypes")
+	VehicleTypes, _ := rulesCount.GetSection("VehicleTypes")
 
 	var maxAnimationKey int
 	for _, key := range Animations.Keys() {
@@ -82,26 +87,31 @@ func main() {
 	var maxBuildingKey int
 	for _, key := range BuildingTypes.Keys() {
 		i, _ := strconv.Atoi(key.Name())
-		if i > maxAnimationKey && i != 999 {
-			maxAnimationKey = i
+		if i > maxBuildingKey && i != 999 {
+			maxBuildingKey = i
 		}
 	}
 
 	var maxAircraftKey int
 	for _, key := range AircraftTypes.Keys() {
 		i, _ := strconv.Atoi(key.Name())
-		if i > maxAnimationKey && i != 999 {
-			maxAnimationKey = i
+		if i > maxAircraftKey && i != 999 {
+			maxAircraftKey = i
 		}
 	}
 
 	var maxVehicleKey int
 	for _, key := range VehicleTypes.Keys() {
 		i, _ := strconv.Atoi(key.Name())
-		if i > maxAnimationKey && i != 999 {
-			maxAnimationKey = i
+		if i > maxVehicleKey && i != 999 {
+			maxVehicleKey = i
 		}
 	}
+
+	Animations, _ = rules.GetSection("Animations")
+	BuildingTypes, _ = rules.GetSection("BuildingTypes")
+	AircraftTypes, _ = rules.GetSection("AircraftTypes")
+	VehicleTypes, _ = rules.GetSection("VehicleTypes")
 
 	sound, err := ini.LoadSources(ini.LoadOptions{
 		UnparseableSections:     []string{},
@@ -143,7 +153,7 @@ func main() {
 	}
 	// var arr map[string]interface{}
 	for _, value := range rules.Sections() {
-		if value.Name() == "SCORPION" {
+		if value.Name() == "EXCITER" {
 			fmt.Println(value.Name())
 			rules2, arts, sounds := FindItems(value, art, sound, rules)
 			fmt.Println("Rules", removeDuplicates(rules2))
@@ -151,6 +161,7 @@ func main() {
 			fmt.Println("Sounds", removeDuplicates(sounds))
 
 			rules2 = append(rules2, value.Name())
+			arts = append(arts, value.Name())
 
 			list, _ := soundOutput.NewSection("SoundList")
 			sourceList, _ := soundOutputCheck.GetSection("SoundList")
@@ -346,6 +357,16 @@ func main() {
 	}
 }
 
+var checkedRules map[string]bool
+var checkedArt map[string]bool
+var checkedSound map[string]bool
+
+func init() {
+	checkedRules = make(map[string]bool)
+	checkedArt = make(map[string]bool)
+	checkedSound = make(map[string]bool)
+}
+
 func FindItems(section *ini.Section, art *ini.File, sound *ini.File, rules *ini.File) ([]string, []string, []string) {
 	re := regexp.MustCompile(`^[a-zA-Z-_0-9,]*$`)
 	re2 := regexp.MustCompile(`[A-Z]+`)
@@ -354,33 +375,29 @@ func FindItems(section *ini.Section, art *ini.File, sound *ini.File, rules *ini.
 	var sounds []string
 	var rules2 []string
 
-	if checked[section.Name()] {
-		return rules2, arts, sounds
-
-	}
-
-	checked[section.Name()] = true
-
 	for _, value := range section.Keys() {
 		if re.MatchString(value.Value()) && re2.MatchString(value.Value()) {
 			items := value.Strings(",")
 			for _, item := range items {
 				item := strings.Trim(item, " ")
-				if sound.HasSection(item) {
+				if sound.HasSection(item) && !checkedSound[item] {
+					checkedSound[item] = true
 					sounds = append(sounds, item)
 					rules3, arts3, sounds3 := FindItems(sound.Section(item), art, sound, rules)
 					rules2 = append(rules2, rules3...)
 					arts = append(arts, arts3...)
 					sounds = append(sounds, sounds3...)
 				}
-				if art.HasSection(item) {
+				if art.HasSection(item) && !checkedArt[item] {
+					checkedArt[item] = true
 					arts = append(arts, item)
 					rules3, arts3, sounds3 := FindItems(art.Section(item), art, sound, rules)
 					rules2 = append(rules2, rules3...)
 					arts = append(arts, arts3...)
 					sounds = append(sounds, sounds3...)
 				}
-				if rules.HasSection(item) {
+				if rules.HasSection(item) && !checkedRules[item] {
+					checkedRules[item] = true
 					rules2 = append(rules2, item)
 					rules3, arts3, sounds3 := FindItems(rules.Section(item), art, sound, rules)
 					rules2 = append(rules2, rules3...)
